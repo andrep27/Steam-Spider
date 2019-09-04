@@ -16,3 +16,4 @@ Mesmo sendo simples, pode ser extremamente util para criação de bots de monito
 # Problemas
 
 Ainda sou iniciante no Python e talvez tenha inciado algo um tanto quanto complexo porém queria muito ver esse codigo funcionando para poder avançar mais na materia e estuda-lo. 
+O probema atual é ao inicio da aplicação, ele não faz o scraping da pagina, não sei ao certo como receber os dados e mostrar ao usuario.
